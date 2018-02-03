@@ -3,9 +3,12 @@
 
 
 
-## Welcome to GitHub Pages
+## Main Menu
 
-[Resources](https://yingzhounyc.github.io/resources.md)
+### [Resources](https://yingzhounyc.github.io/resources.md)
+
+This section is a collection of resources I found useful for those new to coding, to Github, and to a career in tech.
+
 
 We can use the [editor on GitHub](https://github.com/yingzhounyc/yingzhounyc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
