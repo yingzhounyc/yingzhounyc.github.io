@@ -1,9 +1,11 @@
 
-[Resources](https://yingzhounyc.github.io/resources)
+
 
 
 
 ## Welcome to GitHub Pages
+
+[Resources](https://yingzhounyc.github.io/resources)
 
 We can use the [editor on GitHub](https://github.com/yingzhounyc/yingzhounyc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
