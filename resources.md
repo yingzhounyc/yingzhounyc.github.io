@@ -1,3 +1,3 @@
-### Resources
+## Resources
 
 Here is a list of useful resources for CS students
